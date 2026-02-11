@@ -6,13 +6,6 @@ public class Main {
 
         System.out.println("cambio de nicolas");
 
-        System.out.println("cambio de nicolas 2");
-
-
-
-
-
-
-
+        System.out.println("cambios carlos navia");
         }
     }
